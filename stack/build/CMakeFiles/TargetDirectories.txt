@@ -1,4 +1,0 @@
-/home/andrewms/VSCodeWorkspace/practice/stack/numlist/build/CMakeFiles/edit_cache.dir
-/home/andrewms/VSCodeWorkspace/practice/stack/numlist/build/CMakeFiles/rebuild_cache.dir
-/home/andrewms/VSCodeWorkspace/practice/stack/numlist/build/CMakeFiles/test.out.dir
-/home/andrewms/VSCodeWorkspace/practice/stack/numlist/build/CMakeFiles/a.out.dir

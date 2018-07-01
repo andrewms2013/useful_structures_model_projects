@@ -1,1 +1,0 @@
-/usr/bin/cc  -std=c11   CMakeFiles/a.out.dir/main.c.o CMakeFiles/a.out.dir/src/stack.c.o  -o a.out -rdynamic 
