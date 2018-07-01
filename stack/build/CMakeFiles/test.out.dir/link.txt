@@ -1,0 +1,1 @@
+/usr/bin/cc  -std=c11   CMakeFiles/test.out.dir/tests/main.c.o CMakeFiles/test.out.dir/src/stack.c.o  -o test.out -rdynamic -lcheck -lsubunit -lrt -lm -lpthread 

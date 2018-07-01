@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/andrewms/VSCodeWorkspace/practice/stack/numlist/include/stack.h
+stdbool.h
+-
+
+/home/andrewms/VSCodeWorkspace/practice/stack/numlist/main.c
+
+/home/andrewms/VSCodeWorkspace/practice/stack/numlist/src/stack.c
+stdlib.h
+-
+stdio.h
+-
+assert.h
+-
+stdbool.h
+-
+../include/stack.h
+/home/andrewms/VSCodeWorkspace/practice/stack/numlist/include/stack.h
+

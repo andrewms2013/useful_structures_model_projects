@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/list.h
+stdlib.h
+-
+
+/home/andrewms/VSCodeWorkspace/practice/list_nodes/include/list.h
+stdlib.h
+-
+
+/home/andrewms/VSCodeWorkspace/practice/list_nodes/main.c
+stdlib.h
+-
+stdio.h
+-
+assert.h
+-
+list.h
+-
+time.h
+-
+stdbool.h
+-
+
+/home/andrewms/VSCodeWorkspace/practice/list_nodes/src/list.c
+stdlib.h
+-
+stdio.h
+-
+assert.h
+-
+stdbool.h
+-
+../include/list.h
+/home/andrewms/VSCodeWorkspace/practice/list_nodes/include/list.h
+

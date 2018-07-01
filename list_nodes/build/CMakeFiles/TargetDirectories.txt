@@ -1,0 +1,3 @@
+/home/andrewms/VSCodeWorkspace/practice/list_nodes/build/CMakeFiles/edit_cache.dir
+/home/andrewms/VSCodeWorkspace/practice/list_nodes/build/CMakeFiles/rebuild_cache.dir
+/home/andrewms/VSCodeWorkspace/practice/list_nodes/build/CMakeFiles/a.out.dir
